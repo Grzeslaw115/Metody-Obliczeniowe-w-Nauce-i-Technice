@@ -1,0 +1,5 @@
+newton ma kwadratowa wtw gdy jest to pojedynczy pierwiastek
+
+warunki stopu jest chcesz zaimplemntowac wlasna
+
+na slajdzie 11 propoczycja zamiany warunkow
