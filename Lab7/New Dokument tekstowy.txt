@@ -1,2 +1,0 @@
-Jest błąd w legendzie w pierwszy,
-we wnioskach za duży kwatyfikator nie zawsze jest tak że adaptacyjne są lepsze
